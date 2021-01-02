@@ -1,0 +1,48 @@
+header {
+  background-color:aquamarine
+}
+
+header div {
+  background-color: gray
+}
+
+h1{text-align: center;
+color: black}
+/* I used aquamarine below for text to, to create repeating theme of colors*/
+h2{text-align: center;
+color: aquamarine}
+
+h3{
+  color: blueviolet;
+}
+
+
+/* added padding here to give space between links*/
+header p a { font-size: 20px;
+font-family: cursive;
+background-color: white;
+padding: 0px 20px
+}
+
+main {
+  background-color: gainsboro
+}
+/* border to make different sections stand our more*/
+main h3 {
+  border: 2px solid black
+}
+
+a:link {color: blue}
+a:visited{color: green}
+a:hover{color:pink}
+a:active{color: yellow}
+
+.center-align {
+  text-align: center
+}
+
+/*Used aquamarine again as last flip of colors*/
+footer {
+  background-color: aquamarine;
+  margin: 10px
+}
