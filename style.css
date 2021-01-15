@@ -1,8 +1,7 @@
 
 header {
-  background-color: aquamarine;
-  height: 425px
-  }
+  background-color:aquamarine
+}
 
 header div {
   background-color: gray
@@ -27,7 +26,7 @@ padding: 0px 20px
 }
 
 main {
-  background: gainsboro
+  background-color: gainsboro
 }
 /* border to make different sections stand our more*/
 main h3 {
